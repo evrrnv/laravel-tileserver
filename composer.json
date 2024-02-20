@@ -1,5 +1,5 @@
 {
-    "name": "teamzac/laravel-tileserver",
+    "name": "evrrnv/laravel-tileserver",
     "description": "Turn your Laravel app into an XYZ tile server using your own mbtiles resources.",
     "keywords": [
         "teamzac",
